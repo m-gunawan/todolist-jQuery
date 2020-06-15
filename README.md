@@ -1,5 +1,6 @@
 Aplikasi To Do List (Contoh program to do list dengan jQuery)
 
+- HTML5
 - CSS3
 - jQuery V-4.x.x (CDN)
 - Fontawesome V-6.x.x (CDN)
